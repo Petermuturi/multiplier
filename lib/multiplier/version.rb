@@ -1,0 +1,3 @@
+module Multiplier
+  VERSION = "0.1.0"
+end
